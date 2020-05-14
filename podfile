@@ -1,0 +1,13 @@
+platform :ios, '9.0'
+
+use_frameworks!
+
+target 'NewToday' do
+
+   pod 'Alamofire'
+   pod 'SwiftyJSON'
+   pod 'WisdomHUD'
+   pod 'KeychainSwift'
+   pod 'Kingfisher'
+
+end

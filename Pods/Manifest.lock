@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - KeychainSwift (19.0.0)
+  - SwiftyJSON (5.0.0)
+  - WisdomHUD (0.0.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - KeychainSwift
+  - SwiftyJSON
+  - WisdomHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KeychainSwift
+    - SwiftyJSON
+    - WisdomHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  WisdomHUD: c453e920a7db4ed5d15a7bb6960ecbb2b37eb81e
+
+PODFILE CHECKSUM: a2ba88245223cf9cc60b7b3678ccd5eed7eee5f9
+
+COCOAPODS: 1.9.0.beta.2
